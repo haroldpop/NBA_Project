@@ -1,11 +1,12 @@
 To scrap the data, you will have to install beautiful soup, and selenium. Also, to use selenium, you will have to download a webdriver, I suggest you the chrome one,
 available at this link: https://chromedriver.chromium.org/downloads (the windows version looks just for 32 bits Windows but work also for 64 bits). Once this webdriver
-downloaded, you will have to unzip it and place it in the same folder than the script. (It was the easiest way for me to do it with jupyter notebook on my local).
+downloaded, you will have to unzip it and place it in the same folder than the script. (you can also when you call the driver define the location of the application, but 
+this way was the easiest way for me to do it with jupyter notebook on my local).
 
-Once you downloaded every package, you can start running the code from RUN HERE till SCRAP ALL DATAS part. 
+Once you downloaded every package, you can start running the code from **RUN HERE** till **SCRAP ALL DATAS**. (don't run for seasons 2010, 2011 part) 
 
-I think we can split the scrapping like this: I will scrap 2010, 2011, 2012 and 2013 seasons, Anuj will scrap 2014, 2015, and 2016 and Anupam will scrap 2017, 2018 and 2020 ones.
-
+I think we can split the scrapping like this: 
+  I will scrap 2010, 2011, 2012 and 2013 seasons, Anuj will scrap 2014, 2015, and 2016 seasons and Anupam will scrap 2017, 2018 and 2020 ones.
 
 BEFORE RUNNING BE SURE YOU SCRAP THE GOOD SEASONS. 
 
@@ -13,4 +14,4 @@ BEFORE RUNNING BE SURE YOU SCRAP THE GOOD SEASONS.
 
 2017, 2018 and 2020 means that you will RUN FOR S_watch[5:] !!!! 
 
-After that you can run cells  just under for the other season, which means for other seasons haha. 
+After that you can run cells  just under **FOR OTHER SEASONS**. Change the name of your file accordingly to the season you scrapped and upload it here. 
