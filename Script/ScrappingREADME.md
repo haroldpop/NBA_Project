@@ -1,5 +1,5 @@
 To scrap the data, you will have to install beautiful soup, and selenium. Also, to use selenium, you will have to download a webdriver, I suggest you the chrome one,
-available at this link: https://chromedriver.chromium.org/downloads (the windows version looks just for 32 bits Windows but work also for 64 bits). Once this webdriver
+available at this link: https://chromedriver.chromium.org/downloads (the windows version for 32 bits Windows works also for 64 bits). Once this webdriver
 downloaded, you will have to unzip it and place it in the same folder than the script. (you can also when you call the driver define the location of the application, but 
 this way was the easiest way for me to do it with jupyter notebook on my local).
 
