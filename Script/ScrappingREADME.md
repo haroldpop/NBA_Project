@@ -15,3 +15,5 @@ BEFORE RUNNING BE SURE YOU SCRAP THE GOOD SEASONS.
 2017, 2018 and 2020 means that you will RUN FOR S_watch[5:] !!!! 
 
 After that you can run cells  just under **FOR OTHER SEASONS**. Change the name of your file accordingly to the season you scrapped and upload it here. 
+
+Note: If you want you can reduce the sleep in the code
