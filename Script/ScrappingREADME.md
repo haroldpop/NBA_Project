@@ -22,10 +22,10 @@ After that you can run cells  just under **FOR OTHER SEASONS**. Change the name 
 
 Note: If you want you can reduce the sleep in the code.
       
-      I think that the scrapping will failed at least one time, to don't have to scrap the datas from the beginning, you can get the date of the last element
+  I think that the scrapping will failed at least one time, to don't have to scrap the datas from the beginning, you can get the date of the last element
       in the scores dataframe you create in the cell below, find this url in the s10 or s11 or, ... etc (I do it with several try), begin again 
       your scraping for this season from this indexing. 
       
-      BE CAREFUL WITH IDS! 
+  BE CAREFUL WITH IDS! 
       
-      If any question ask me for sure!
+  If any question ask me for sure!
