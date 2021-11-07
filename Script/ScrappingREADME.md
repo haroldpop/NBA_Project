@@ -7,6 +7,7 @@ Once you downloaded every package, you can start running the code from **RUN HER
 
 I think we can split the scrapping like this: 
   I will scrap 2010, 2011, 2012 and 2013 seasons, Anuj will scrap 2014, 2015, and 2016 seasons and Anupam will scrap 2017, 2018 and 2020 ones.
+  
 
 BEFORE RUNNING BE SURE YOU SCRAP THE GOOD SEASONS. 
 
@@ -14,6 +15,17 @@ BEFORE RUNNING BE SURE YOU SCRAP THE GOOD SEASONS.
 
 2017, 2018 and 2020 means that you will RUN FOR S_watch[5:] !!!! 
 
+OK SORRY! I forgot to tell this but you have to get the current player list in a pd.DataFrame named df_player before started SCRAPPING. 
+To do this, you can run the code in *retrieve current Nba players* or you can download the csv in dataset folder and read the csv as df_player pandas DataFrame.
+
 After that you can run cells  just under **FOR OTHER SEASONS**. Change the name of your file accordingly to the season you scrapped and upload it here. 
 
-Note: If you want you can reduce the sleep in the code
+Note: If you want you can reduce the sleep in the code.
+      
+      I think that the scrapping will failed at least one time, to don't have to scrap the datas from the beginning, you can get the date of the last element
+      in the scores dataframe you create in the cell below, find this url in the s10 or s11 or, ... etc (I do it with several try), begin again 
+      your scraping for this season from this indexing. 
+      
+      BE CAREFUL WITH IDS! 
+      
+      If any question ask me for sure!
